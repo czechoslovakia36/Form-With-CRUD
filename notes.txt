@@ -1,0 +1,19 @@
+NOTE ---> Express-rate-limit module is a middleware for Express which is used to
+limit repeated requests to public APIs and/or endpoints such as password reset.
+By limiting the number of requests to the server, we can prevent the Denial-of-Service (DoS) attack.
+It is the type of attack in which the server is flooded with repeated requests making it
+unavailable to its intended users and ultimately shutting it down.
+
+
+
+Note- helmet is a Node.js module that helps in securing ‘express’ applications by setting various HTTP headers.
+It helps in mitigating cross-site scripting attacks, misissued SSL certificates etc.
+
+NOTE-->
+The serialize() method puts the execution mode into serialized mode. 
+It means that only one statement can execute at a time.
+Other statements will wait in a queue until all the previous statements are executed.
+
+
+NOTE-->
+https://www.geeksforgeeks.org/body-parser-middleware-in-node-js/
